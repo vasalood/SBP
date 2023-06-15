@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Uros\\3 DOMACI-3\\MotornaVozila\\MotornaVozila.csproj": {}
+    "F:\\5 ELFAK\\9 Sistemi baza podataka\\2 DOMACI ZADACI\\GitHub\\SBP\\3 DOMACI-3\\MotornaVozila\\MotornaVozila.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Uros\\3 DOMACI-3\\MotornaVozila\\MotornaVozila.csproj": {
+    "F:\\5 ELFAK\\9 Sistemi baza podataka\\2 DOMACI ZADACI\\GitHub\\SBP\\3 DOMACI-3\\MotornaVozila\\MotornaVozila.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Uros\\3 DOMACI-3\\MotornaVozila\\MotornaVozila.csproj",
+        "projectUniqueName": "F:\\5 ELFAK\\9 Sistemi baza podataka\\2 DOMACI ZADACI\\GitHub\\SBP\\3 DOMACI-3\\MotornaVozila\\MotornaVozila.csproj",
         "projectName": "MotornaVozila",
-        "projectPath": "C:\\Users\\Uros\\3 DOMACI-3\\MotornaVozila\\MotornaVozila.csproj",
-        "packagesPath": "C:\\Users\\Uros\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Uros\\3 DOMACI-3\\MotornaVozila\\obj\\",
+        "projectPath": "F:\\5 ELFAK\\9 Sistemi baza podataka\\2 DOMACI ZADACI\\GitHub\\SBP\\3 DOMACI-3\\MotornaVozila\\MotornaVozila.csproj",
+        "packagesPath": "C:\\Users\\Vasa\\.nuget\\packages\\",
+        "outputPath": "F:\\5 ELFAK\\9 Sistemi baza podataka\\2 DOMACI ZADACI\\GitHub\\SBP\\3 DOMACI-3\\MotornaVozila\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Uros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vasa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

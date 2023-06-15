@@ -5840,19 +5840,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Uros\\.nuget\\packages\\": {}
+    "C:\\Users\\Vasa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Uros\\3 DOMACI-3\\WebApiMotornaVozila\\WebApiMotornaVozila.csproj",
+      "projectUniqueName": "F:\\5 ELFAK\\9 Sistemi baza podataka\\2 DOMACI ZADACI\\GitHub\\SBP\\3 DOMACI-3\\WebApiMotornaVozila\\WebApiMotornaVozila.csproj",
       "projectName": "WebApiMotornaVozila",
-      "projectPath": "C:\\Users\\Uros\\3 DOMACI-3\\WebApiMotornaVozila\\WebApiMotornaVozila.csproj",
-      "packagesPath": "C:\\Users\\Uros\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Uros\\3 DOMACI-3\\WebApiMotornaVozila\\obj\\",
+      "projectPath": "F:\\5 ELFAK\\9 Sistemi baza podataka\\2 DOMACI ZADACI\\GitHub\\SBP\\3 DOMACI-3\\WebApiMotornaVozila\\WebApiMotornaVozila.csproj",
+      "packagesPath": "C:\\Users\\Vasa\\.nuget\\packages\\",
+      "outputPath": "F:\\5 ELFAK\\9 Sistemi baza podataka\\2 DOMACI ZADACI\\GitHub\\SBP\\3 DOMACI-3\\WebApiMotornaVozila\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Uros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vasa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5860,14 +5860,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Uros\\3 DOMACI-3\\MotornaVozila\\MotornaVozila.csproj": {
-              "projectPath": "C:\\Users\\Uros\\3 DOMACI-3\\MotornaVozila\\MotornaVozila.csproj"
+            "F:\\5 ELFAK\\9 Sistemi baza podataka\\2 DOMACI ZADACI\\GitHub\\SBP\\3 DOMACI-3\\MotornaVozila\\MotornaVozila.csproj": {
+              "projectPath": "F:\\5 ELFAK\\9 Sistemi baza podataka\\2 DOMACI ZADACI\\GitHub\\SBP\\3 DOMACI-3\\MotornaVozila\\MotornaVozila.csproj"
             }
           }
         }
@@ -5906,7 +5907,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

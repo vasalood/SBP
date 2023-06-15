@@ -39,7 +39,7 @@ namespace MotornaVozila
             {
                 var cfg = OracleManagedDataClientConfiguration.Oracle10
                 .ConnectionString(c =>
-                    c.Is("Data Source=gislab-oracle.elfak.ni.ac.rs:1521/SBP_PDB;User Id=S18450;Password=Vasamare123"));
+                    c.Is("Data Source=gislab-oracle.elfak.ni.ac.rs:1521/SBP_PDB;User Id=;Password="));
 
                 return Fluently.Configure()
                     .Database(cfg.ShowSql())
