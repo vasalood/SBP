@@ -1,0 +1,176 @@
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\MotornaVozila.exe.config
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\MotornaVozila.exe
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\MotornaVozila.pdb
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\Antlr3.Runtime.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\FluentNHibernate.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\Iesi.Collections.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\NHibernate.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\Remotion.Linq.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\Remotion.Linq.EagerFetching.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\System.Buffers.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\System.Memory.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\System.Numerics.Vectors.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\System.Text.Encodings.Web.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\System.Text.Json.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\System.ValueTuple.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\Antlr3.Runtime.xml
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\FluentNHibernate.pdb
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\FluentNHibernate.xml
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\Iesi.Collections.xml
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\NHibernate.xml
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\Remotion.Linq.xml
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\Remotion.Linq.EagerFetching.xml
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\System.Buffers.xml
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\System.Memory.xml
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\System.Numerics.Vectors.xml
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\System.Text.Encodings.Web.xml
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\System.Text.Json.xml
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\bin\Debug\System.ValueTuple.xml
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.csproj.AssemblyReference.cache
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.csproj.SuggestedBindingRedirects.cache
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.Form1.resources
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.Properties.Resources.resources
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.csproj.GenerateResource.cache
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.csproj.CoreCompileInputs.cache
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.csproj.CopyComplete
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.exe
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.pdb
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\obj\Debug\MotornaVozila.csproj.AssemblyReference.cache
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\obj\Debug\MotornaVozila.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\obj\Debug\MotornaVozila.Form1.resources
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\obj\Debug\MotornaVozila.Properties.Resources.resources
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\obj\Debug\MotornaVozila.csproj.GenerateResource.cache
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\obj\Debug\MotornaVozila.csproj.CoreCompileInputs.cache
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\obj\Debug\MotornaVozila.exe
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\obj\Debug\MotornaVozila.pdb
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\MotornaVozila.exe.config
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\MotornaVozila.exe
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\MotornaVozila.pdb
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\FluentNHibernate.dll
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\Iesi.Collections.dll
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\NHibernate.dll
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\Remotion.Linq.dll
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\System.Buffers.dll
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\System.Memory.dll
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\System.Text.Json.dll
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\System.ValueTuple.dll
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\FluentNHibernate.pdb
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\FluentNHibernate.xml
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\Iesi.Collections.xml
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\NHibernate.xml
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\Remotion.Linq.xml
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\System.Buffers.xml
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\System.Memory.xml
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\System.Text.Json.xml
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\bin\Debug\System.ValueTuple.xml
+C:\Users\Vasa\OneDrive - Faculty of Electronic Engineering\Radna površina\MotornaVozila\obj\Debug\MotornaVozila.csproj.CopyComplete
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.PocetnaForma.resources
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.Forme.SviZaposleniForma.resources
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.Forme.SvaVozilaForma.resources
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.Forme.SvaPredstavnistvaForma.resources
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.Forme.FormaSalon.resources
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.Forme.OvlasceniServisForma.resources
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.Forme.ServisiranjaForm.resources
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.Forme.ServisiranaVozilaForm.resources
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.Forme.ServisiranaNezavisnaVozilaForm.resources
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.Forme.IzlozenaVozilaForma.resources
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.Forme.ProdajeForm.resources
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.Forme.IzmenaZaposlenogForma.resources
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.Forme.IzmenaSalonaForma.resources
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.Forme.NoviSalonForma.resources
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.Forme.NoviServisForma.resources
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.Forme.DodajVoziloForma.resources
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.Forme.DodavanjePredstavnistvaForm.resources
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.Forme.IzmenaPredstavnistvaForm.resources
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.Forme.ObaviProdajuForm.resources
+F:\sistemi baza\MotornaVozila\bin\Debug\MotornaVozila.exe.config
+F:\sistemi baza\MotornaVozila\bin\Debug\MotornaVozila.exe
+F:\sistemi baza\MotornaVozila\bin\Debug\MotornaVozila.pdb
+F:\sistemi baza\MotornaVozila\bin\Debug\Antlr3.Runtime.dll
+F:\sistemi baza\MotornaVozila\bin\Debug\FluentNHibernate.dll
+F:\sistemi baza\MotornaVozila\bin\Debug\Iesi.Collections.dll
+F:\sistemi baza\MotornaVozila\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\sistemi baza\MotornaVozila\bin\Debug\NHibernate.dll
+F:\sistemi baza\MotornaVozila\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\sistemi baza\MotornaVozila\bin\Debug\Remotion.Linq.dll
+F:\sistemi baza\MotornaVozila\bin\Debug\Remotion.Linq.EagerFetching.dll
+F:\sistemi baza\MotornaVozila\bin\Debug\System.Buffers.dll
+F:\sistemi baza\MotornaVozila\bin\Debug\System.Memory.dll
+F:\sistemi baza\MotornaVozila\bin\Debug\System.Numerics.Vectors.dll
+F:\sistemi baza\MotornaVozila\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\sistemi baza\MotornaVozila\bin\Debug\System.Text.Encodings.Web.dll
+F:\sistemi baza\MotornaVozila\bin\Debug\System.Text.Json.dll
+F:\sistemi baza\MotornaVozila\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\sistemi baza\MotornaVozila\bin\Debug\System.ValueTuple.dll
+F:\sistemi baza\MotornaVozila\bin\Debug\Antlr3.Runtime.xml
+F:\sistemi baza\MotornaVozila\bin\Debug\FluentNHibernate.pdb
+F:\sistemi baza\MotornaVozila\bin\Debug\FluentNHibernate.xml
+F:\sistemi baza\MotornaVozila\bin\Debug\Iesi.Collections.xml
+F:\sistemi baza\MotornaVozila\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\sistemi baza\MotornaVozila\bin\Debug\NHibernate.xml
+F:\sistemi baza\MotornaVozila\bin\Debug\Remotion.Linq.xml
+F:\sistemi baza\MotornaVozila\bin\Debug\Remotion.Linq.EagerFetching.xml
+F:\sistemi baza\MotornaVozila\bin\Debug\System.Buffers.xml
+F:\sistemi baza\MotornaVozila\bin\Debug\System.Memory.xml
+F:\sistemi baza\MotornaVozila\bin\Debug\System.Numerics.Vectors.xml
+F:\sistemi baza\MotornaVozila\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\sistemi baza\MotornaVozila\bin\Debug\System.Text.Encodings.Web.xml
+F:\sistemi baza\MotornaVozila\bin\Debug\System.Text.Json.xml
+F:\sistemi baza\MotornaVozila\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\sistemi baza\MotornaVozila\bin\Debug\System.ValueTuple.xml
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.csproj.AssemblyReference.cache
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.csproj.SuggestedBindingRedirects.cache
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.Form1.resources
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.Forme.DodajVoziloForma.resources
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.Forme.DodavanjePredstavnistvaForm.resources
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.Forme.FormaSalon.resources
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.Forme.IzlozenaVozilaForma.resources
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.Forme.IzmenaPredstavnistvaForm.resources
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.Forme.IzmenaSalonaForma.resources
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.Forme.IzmenaZaposlenogForma.resources
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.Forme.NoviNadredjeniForm.resources
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.Forme.NoviPodredjeniForm.resources
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.Forme.NoviSalonForma.resources
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.Forme.NoviServisForma.resources
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.Forme.ObaviProdajuForm.resources
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.Forme.OvlasceniServisForma.resources
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.Forme.ProdajeForm.resources
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.Forme.ServisiranaNezavisnaVozilaForm.resources
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.Forme.ServisiranaVozilaForm.resources
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.Forme.ServisiranjaForm.resources
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.Forme.SvaPredstavnistvaForma.resources
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.Forme.SvaVozilaForma.resources
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.Forme.SviZaposleniForma.resources
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.PocetnaForma.resources
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.Properties.Resources.resources
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.csproj.GenerateResource.cache
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.csproj.CoreCompileInputs.cache
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.csproj.CopyComplete
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.exe
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.pdb
+F:\sistemi baza\MotornaVozila\obj\Debug\MotornaVozila.Forme.IzmenaServisaForma.resources
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.Forme.IzmenaServisaForma.resources
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.Forme.NoviNadredjeniForm.resources
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\2 DOMACI-2\MotornaVozila\obj\Debug\MotornaVozila.Forme.NoviPodredjeniForm.resources

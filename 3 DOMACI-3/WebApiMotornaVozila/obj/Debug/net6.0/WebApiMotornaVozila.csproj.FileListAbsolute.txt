@@ -1,0 +1,120 @@
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\WebApiMotornaVozila.csproj.AssemblyReference.cache
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\WebApiMotornaVozila.GeneratedMSBuildEditorConfig.editorconfig
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\WebApiMotornaVozila.AssemblyInfoInputs.cache
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\WebApiMotornaVozila.AssemblyInfo.cs
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\WebApiMotornaVozila.csproj.CoreCompileInputs.cache
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\WebApiMotornaVozila.MvcApplicationPartsAssemblyInfo.cache
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\appsettings.Development.json
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\appsettings.json
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\WebApiMotornaVozila.exe
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\WebApiMotornaVozila.deps.json
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\WebApiMotornaVozila.runtimeconfig.json
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\WebApiMotornaVozila.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\WebApiMotornaVozila.pdb
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\Antlr3.Runtime.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\FluentNHibernate.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\Iesi.Collections.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\NHibernate.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\Remotion.Linq.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\Remotion.Linq.EagerFetching.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\System.DirectoryServices.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\MotornaVozila.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\MotornaVozila.pdb
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\staticwebassets\msbuild.WebApiMotornaVozila.Microsoft.AspNetCore.StaticWebAssets.props
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiMotornaVozila.props
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiMotornaVozila.props
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiMotornaVozila.props
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\staticwebassets.pack.json
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\staticwebassets.build.json
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\staticwebassets.development.json
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\scopedcss\bundle\WebApiMotornaVozila.styles.css
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\WebApiMotornaVozila.csproj.CopyComplete
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\WebApiMotornaVozila.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\refint\WebApiMotornaVozila.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\WebApiMotornaVozila.pdb
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\WebApiMotornaVozila.genruntimeconfig.cache
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\ref\WebApiMotornaVozila.dll
+F:\5 ELFAK\9 Sistemi baza podataka\2 DOMACI ZADACI\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\WebApiMotornaVozila.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\appsettings.json
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\WebApiMotornaVozila.exe
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\WebApiMotornaVozila.deps.json
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\WebApiMotornaVozila.runtimeconfig.json
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\WebApiMotornaVozila.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\WebApiMotornaVozila.pdb
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\Antlr3.Runtime.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\FluentNHibernate.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\Iesi.Collections.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\NHibernate.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\Remotion.Linq.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\Remotion.Linq.EagerFetching.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\MotornaVozila.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\bin\Debug\net6.0\MotornaVozila.pdb
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\WebApiMotornaVozila.csproj.AssemblyReference.cache
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\WebApiMotornaVozila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\WebApiMotornaVozila.AssemblyInfoInputs.cache
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\WebApiMotornaVozila.AssemblyInfo.cs
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\WebApiMotornaVozila.csproj.CoreCompileInputs.cache
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\WebApiMotornaVozila.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\WebApiMotornaVozila.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\staticwebassets\msbuild.WebApiMotornaVozila.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiMotornaVozila.props
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiMotornaVozila.props
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiMotornaVozila.props
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\scopedcss\bundle\WebApiMotornaVozila.styles.css
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\WebApiMotornaVozila.csproj.CopyComplete
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\WebApiMotornaVozila.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\refint\WebApiMotornaVozila.dll
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\WebApiMotornaVozila.pdb
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\WebApiMotornaVozila.genruntimeconfig.cache
+C:\Users\Uros\3 DOMACI-3\WebApiMotornaVozila\obj\Debug\net6.0\ref\WebApiMotornaVozila.dll

@@ -1,0 +1,914 @@
+INSERT INTO ZAPOSLENI
+VALUES
+(0702992632111, 60000, 'Marko', 'Petrovic', '1992-02-07', '2020-11-05', 3, 'Tehnicka struka', '2021-05-23', 'Visi tehnicar poliranja', 'Auto centar Tasic', NULL, NULL, 'Nadredjeni', 1, 0, 0, NULL, NULL, 0702992632111, NULL,NULL);
+
+INSERT INTO ZAPOSLENI
+VALUES
+(1807987542331, 55000, 'Jovana', 'Milovanovic', '1987-07-18', '2017-05-21', 6, 'Ekonomska struka', NULL, NULL, NULL, 1, '2027-12-28', 'Nadredjeni', 1, 0, 0, NULL, NULL, 1807987542331, NULL,NULL);
+
+INSERT INTO ZAPOSLENI
+VALUES
+(2312984715494, 65000, 'Petar', 'Milic', '1984-12-23', '2015-08-14', 8, 'Tehnicka struka', '2017-02-12', 'Visi tehnicar motornih vozila', 'Visa tehnicka skola Nis', NULL, NULL, 'Nadredjeni', 1, 0, 1, NULL, NULL, 2312984715494, NULL,NULL);
+
+INSERT INTO ZAPOSLENI
+VALUES
+(0601996379936, 60000, 'Ivan', 'Stojanovic', '1996-01-06', '2020-06-12', 3, 'Tehnicka struka', '2022-10-03', 'Visi tehnicar limarije', 'Visa tehnicka skola Kragujevac', NULL, NULL, 'Nadredjeni', 1, 0, 0, NULL, NULL, 0601996379936, NULL,NULL);
+
+INSERT INTO ZAPOSLENI
+VALUES
+(1506975236325, 75000, 'Ana', 'Simic', '1975-06-15', '2013-12-02', 10, 'Ekonomska struka', NULL, NULL, NULL, 1, '2030-08-17', 'Nadredjeni', 1, 1, 1, NULL, NULL, 1506975236325, NULL,NULL);
+
+INSERT INTO ZAPOSLENI
+VALUES
+(1501998177837, 50000, 'Nikola', 'Jankovic', '1998-01-15', '2020-10-09', 3, 'Tehnicka struka', '2022-11-06', 'Mehanicar', 'Tehnicka skola 15. maj', NULL, NULL, 'Podredjeni', 0, 0, 0, 'Po ugovoru', '2024-11-22', 0702992632111, NULL,NULL);
+
+INSERT INTO ZAPOSLENI
+VALUES
+(1901993850763, 55000, 'Ivana', 'Nikolic', '1993-01-19', '2019-02-18', 4, 'Ekonomska struka', NULL, NULL, NULL, 1, '2024-03-13', 'Podredjeni', 0, 0, 0, 'Stalno', NULL, 1807987542331, NULL,NULL);
+
+INSERT INTO ZAPOSLENI
+VALUES
+(0803994658751, 35000, 'Milica', 'Jovic', '1994-03-08', '2022-03-28', 1, 'Tehnicka struka', NULL, NULL, NULL, NULL, NULL, 'Podredjeni', 0, 0, 0, 'Po ugovoru', '2025-07-17', 2312984715494, NULL,NULL);
+
+INSERT INTO ZAPOSLENI
+VALUES
+(1112996293488, 35000, 'Luka', 'Djordjevic', '1996-12-11', '2022-02-23', 1, 'Tehnicka struka', NULL, NULL, NULL, NULL, NULL, 'Podredjeni', 0, 0, 0, 'Stalno', NULL, 0601996379936, NULL,NULL);
+
+INSERT INTO ZAPOSLENI
+VALUES
+(2710994407317, 40000, 'Maja', 'Lukic', '1994-10-27', '2021-09-17', 2, 'Ekonomska struka', NULL, NULL, NULL, 0, NULL, 'Podredjeni', 0, 0, 0, 'Po ugovoru', '2025-04-03', 1807987542331, NULL,NULL);
+
+INSERT INTO ZAPOSLENI
+VALUES
+(1109978234313, 75000, 'Mihajlo', 'Probojcevic', '1978-09-11', '2015-11-08', 8, 'Tehnicka struka', '2017-02-14', 'Masinski inzenjer', 'Masinski fakultet', NULL, NULL, 'Nadredjeni', 1, 1, 1, NULL, NULL, 1109978234313, NULL,NULL);
+
+INSERT INTO ZAPOSLENI
+VALUES
+(0202990236325, 70000, 'Jasmina', 'Ilic', '1990-02-02', '2019-12-02', 4, 'Ekonomska struka', NULL, NULL, NULL, 1, '2026-05-12', 'Nadredjeni', 0, 1, 0, NULL, NULL, 1506975236325, NULL, NULL);
+
+INSERT INTO ZAPOSLENI
+VALUES
+(1203988436388, 70000, 'Jovan', 'Cekic', '1988-03-12', '2018-12-02', 5, 'Tehnicka struka', '2018-02-14', 'Masinski inzenjer', 'Masinski fakultet', NULL, NULL, 'Nadredjeni', 0, 1, 0, NULL, NULL, 1109978234313, NULL, NULL); 
+
+
+INSERT INTO PREDSTAVNISTVO
+("Grad", "Adresa_Predstavnistva", "Maticni_Broj_Direktora")
+VALUES
+('Beograd', 'Sestre Bakovic 18', 1506975236325);
+
+INSERT INTO PREDSTAVNISTVO
+("Grad", "Adresa_Predstavnistva", "Maticni_Broj_Direktora")
+VALUES
+('Nis', 'Bulevar Zorana Djindjica 25', 1109978234313);
+
+INSERT INTO PREDSTAVNISTVO
+("Grad", "Adresa_Predstavnistva", "Maticni_Broj_Direktora")
+VALUES
+('Kragujevac', 'Ustanicka 23', 1203988436388);
+
+INSERT INTO PREDSTAVNISTVO
+("Grad", "Adresa_Predstavnistva", "Maticni_Broj_Direktora")
+VALUES
+('Novi Sad', 'Dragoljuba Radosavljevica 41', 0202990236325);
+
+INSERT INTO OVLASCENI_SERVIS
+("Lokacija", "Ime", "Stepen_Opremljenosti", "Sa_Mehanicarskim_Uslugama", "Sa_Limarskim_Uslugama", "Sa_Farbarskim_Uslugama", "Sa_Vulkanizerskim_Uslugama", "Maticni_Broj_Sefa", "ID_Predstavnistva")
+VALUES
+('Dimitrovgradska 20', 'Mehanicarski servis', 'Dobro opremljen', 1, 0, 0, 0, 2312984715494, 1);
+
+INSERT INTO OVLASCENI_SERVIS
+("Lokacija", "Ime", "Stepen_Opremljenosti", "Sa_Mehanicarskim_Uslugama", "Sa_Limarskim_Uslugama", "Sa_Farbarskim_Uslugama", "Sa_Vulkanizerskim_Uslugama", "Maticni_Broj_Sefa", "ID_Predstavnistva")
+VALUES
+('Durmitorska 13', 'Vulkanizer', 'Delimicno opremljen', 0, 0 , 0, 1, 2312984715494, 1);
+
+INSERT INTO OVLASCENI_SERVIS
+("Lokacija", "Ime", "Stepen_Opremljenosti", "Sa_Mehanicarskim_Uslugama", "Sa_Limarskim_Uslugama", "Sa_Farbarskim_Uslugama", "Sa_Vulkanizerskim_Uslugama", "Maticni_Broj_Sefa", "ID_Predstavnistva")
+VALUES
+('Djure Jaksica 11', 'Auto limar', 'Dobro opremljen', 0, 1, 0, 0, 2312984715494, 1);
+
+INSERT INTO OVLASCENI_SERVIS
+("Lokacija", "Ime", "Stepen_Opremljenosti", "Sa_Mehanicarskim_Uslugama", "Sa_Limarskim_Uslugama", "Sa_Farbarskim_Uslugama", "Sa_Vulkanizerskim_Uslugama", "Maticni_Broj_Sefa", "ID_Predstavnistva")
+VALUES
+('Nikole Tesle 13', 'Poliranje Tasic', 'Dobro opremljen', 0, 0, 1, 0, 2312984715494, 1);
+
+INSERT INTO OVLASCENI_SERVIS
+("Lokacija", "Ime", "Stepen_Opremljenosti", "Sa_Mehanicarskim_Uslugama", "Sa_Limarskim_Uslugama", "Sa_Farbarskim_Uslugama", "Sa_Vulkanizerskim_Uslugama", "Maticni_Broj_Sefa", "ID_Predstavnistva")
+VALUES
+('Starogradska 11', 'Poliranje automobila', 'Delimicno opremljen', 0, 0, 1, 0, 2312984715494, 1);
+
+INSERT INTO OVLASCENI_SERVIS
+("Lokacija", "Ime", "Stepen_Opremljenosti", "Sa_Mehanicarskim_Uslugama", "Sa_Limarskim_Uslugama", "Sa_Farbarskim_Uslugama", "Sa_Vulkanizerskim_Uslugama", "Maticni_Broj_Sefa", "ID_Predstavnistva")
+VALUES
+('Kajmakcalanska 36', 'Automehanicarska radionica', 'Delimicno opremljen', 1, 0, 0, 0, 2312984715494, 1);
+
+INSERT INTO OVLASCENI_SERVIS
+("Lokacija", "Ime", "Stepen_Opremljenosti", "Sa_Mehanicarskim_Uslugama", "Sa_Limarskim_Uslugama", "Sa_Farbarskim_Uslugama", "Sa_Vulkanizerskim_Uslugama", "Maticni_Broj_Sefa", "ID_Predstavnistva")
+VALUES
+('Santiceva 8', 'Voolkanizzer', 'Dobro opremljen', 0, 0, 0, 1, 1109978234313, 3);
+
+INSERT INTO OVLASCENI_SERVIS
+("Lokacija", "Ime", "Stepen_Opremljenosti", "Sa_Mehanicarskim_Uslugama", "Sa_Limarskim_Uslugama", "Sa_Farbarskim_Uslugama", "Sa_Vulkanizerskim_Uslugama", "Maticni_Broj_Sefa", "ID_Predstavnistva")
+VALUES
+('Mihajla Pupina 42', 'Limarija', 'Delimicno opremljen', 0, 1, 0, 0, 1109978234313, 4);
+
+INSERT INTO OVLASCENI_SERVIS
+("Lokacija", "Ime", "Stepen_Opremljenosti", "Sa_Mehanicarskim_Uslugama", "Sa_Limarskim_Uslugama", "Sa_Farbarskim_Uslugama", "Sa_Vulkanizerskim_Uslugama", "Maticni_Broj_Sefa", "ID_Predstavnistva")
+VALUES
+('Bulevar Cara Konstantina 1', 'Auto servis Aleksic', 'Dobro opremljen', 1, 0, 0, 0, 1109978234313, 2);
+
+
+
+
+INSERT INTO "VOZILO" ( 
+	"Broj_Sasije",
+	"Broj_Motora",
+	"Kubikaza",
+	"Tip_goriva",  
+	"Model", 
+	"Boja", 
+	"VPutnicko", 
+	"Broj_putnika", 
+	"VTeretno", 
+	"Nosivost",  
+	"Teretni_prostor", 
+	"Datum_Uvoza", 
+	"Id_Servisiranog_Vozila", 
+	"Mat_Br_Tehnicara", 
+	"Id_Salona"
+)
+VALUES
+    (
+        'WAUZZF49HA036784',
+        '223A90005381983',
+	1.9,
+	'Benzin',
+        'Golf 4',
+	'Zelena',
+	1,
+	5,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL
+    );
+INSERT INTO "VOZILO" ( 
+	"Broj_Sasije",
+	"Broj_Motora",
+	"Kubikaza",
+	"Tip_goriva",  
+	"Model", 
+	"Boja", 
+	"VPutnicko", 
+	"Broj_putnika", 
+	"VTeretno", 
+	"Nosivost",  
+	"Teretni_prostor", 
+	"Datum_Uvoza", 
+	"Id_Servisiranog_Vozila", 
+	"Mat_Br_Tehnicara", 
+	"Id_Salona"
+)
+VALUES
+    (
+        'WAUZZF49HA036785',
+        '323A90005381983',
+	1.9,
+	'Benzin',
+        'Golf 4',
+	'Crvena',
+	1,
+	5,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL
+    );
+INSERT INTO "VOZILO" ( 
+	"Broj_Sasije",
+	"Broj_Motora",
+	"Kubikaza",
+	"Tip_goriva",  
+	"Model", 
+	"Boja", 
+	"VPutnicko", 
+	"Broj_putnika", 
+	"VTeretno", 
+	"Nosivost",  
+	"Teretni_prostor", 
+	"Datum_Uvoza", 
+	"Id_Servisiranog_Vozila", 
+	"Mat_Br_Tehnicara", 
+	"Id_Salona"
+)
+VALUES
+    (
+        'ZAUZZG49HA036784',
+        '423A90005381983',
+	1.9,
+	'Benzin',
+        'Golf 4',
+	'Zuta',
+	1,
+	5,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL
+    );
+INSERT INTO "VOZILO" ( 
+	"Broj_Sasije",
+	"Broj_Motora",
+	"Kubikaza",
+	"Tip_goriva",  
+	"Model", 
+	"Boja", 
+	"VPutnicko", 
+	"Broj_putnika", 
+	"VTeretno", 
+	"Nosivost",  
+	"Teretni_prostor", 
+	"Datum_Uvoza", 
+	"Id_Servisiranog_Vozila", 
+	"Mat_Br_Tehnicara", 
+	"Id_Salona"
+)
+VALUES
+  (
+        'ZAUZZG49HA036785',
+        '223A90005382984',
+	2,
+	'Dizel',
+        'Audi A4',
+	'Crna',
+	1,
+	5,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL
+    );
+INSERT INTO "VOZILO" ( 
+	"Broj_Sasije",
+	"Broj_Motora",
+	"Kubikaza",
+	"Tip_goriva",  
+	"Model", 
+	"Boja", 
+	"VPutnicko", 
+	"Broj_putnika", 
+	"VTeretno", 
+	"Nosivost",  
+	"Teretni_prostor", 
+	"Datum_Uvoza", 
+	"Id_Servisiranog_Vozila", 
+	"Mat_Br_Tehnicara", 
+	"Id_Salona"
+)
+VALUES
+  (
+        'XAUZZG49HA13676',
+        '223A90005383985',
+	2,
+	'Dizel',
+        'Audi A4',
+	'Siva',
+	1,
+	5,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL
+    );
+INSERT INTO "VOZILO" ( 
+	"Broj_Sasije",
+	"Broj_Motora",
+	"Kubikaza",
+	"Tip_goriva",  
+	"Model", 
+	"Boja", 
+	"VPutnicko", 
+	"Broj_putnika", 
+	"VTeretno", 
+	"Nosivost",  
+	"Teretni_prostor", 
+	"Datum_Uvoza", 
+	"Id_Servisiranog_Vozila", 
+	"Mat_Br_Tehnicara", 
+	"Id_Salona"
+)
+VALUES
+  (
+        'XAUZZG49HA13677',
+        '223A90015383986',
+	2,
+	'Dizel',
+        'Audi A4',
+	'Metalik Siva',
+	1,
+	5,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL
+    );
+INSERT INTO "VOZILO" ( 
+	"Broj_Sasije",
+	"Broj_Motora",
+	"Kubikaza",
+	"Tip_goriva",  
+	"Model", 
+	"Boja", 
+	"VPutnicko", 
+	"Broj_putnika", 
+	"VTeretno", 
+	"Nosivost",  
+	"Teretni_prostor", 
+	"Datum_Uvoza", 
+	"Id_Servisiranog_Vozila", 
+	"Mat_Br_Tehnicara", 
+	"Id_Salona"
+)
+VALUES
+  (
+        'YAUZZG49HA13678',
+        '223A90025383986',
+	4.5,
+	'Dizel',
+        'Mercedes 3035',
+	'Narandzasta',
+	0,
+	NULL,
+	1,
+	30000,
+	'6,8m, 2,4m, 2,7m',
+	'11-SEP-2001',
+	NULL,
+	NULL,
+	NULL
+    );
+INSERT INTO "VOZILO" ( 
+	"Broj_Sasije",
+	"Broj_Motora",
+	"Kubikaza",
+	"Tip_goriva",  
+	"Model", 
+	"Boja", 
+	"VPutnicko", 
+	"Broj_putnika", 
+	"VTeretno", 
+	"Nosivost",  
+	"Teretni_prostor", 
+	"Datum_Uvoza", 
+	"Id_Servisiranog_Vozila", 
+	"Mat_Br_Tehnicara", 
+	"Id_Salona"
+)
+VALUES
+  (
+        'YAUZZG49HA13689',
+        '323B90025383997',
+	4.5,
+	'Dizel',
+        'Mercedes 3035',
+	'Tamno Zuta',
+	0,
+	NULL,
+	1,
+	30000,
+	'6,8m, 2,4m, 2,7m',
+	'11-SEP-2011',
+	NULL,
+	NULL,
+	NULL
+    );
+INSERT INTO "VOZILO" ( 
+	"Broj_Sasije",
+	"Broj_Motora",
+	"Kubikaza",
+	"Tip_goriva",  
+	"Model", 
+	"Boja", 
+	"VPutnicko", 
+	"Broj_putnika", 
+	"VTeretno", 
+	"Nosivost",  
+	"Teretni_prostor", 
+	"Datum_Uvoza", 
+	"Id_Servisiranog_Vozila", 
+	"Mat_Br_Tehnicara", 
+	"Id_Salona"
+)
+VALUES
+  (
+        'YBCZZG49HA13689',
+        '323B90036383997',
+	3,
+	'Dizel',
+        'Nissan Navara',
+	'Bela',
+	1,
+	5,
+	1,
+	200,
+	'2m, 1.5m, 1.5m',
+	'23-AUG-2011',
+	NULL,
+	NULL,
+	NULL
+    );
+INSERT INTO "VOZILO" ( 
+	"Broj_Sasije",
+	"Broj_Motora",
+	"Kubikaza",
+	"Tip_goriva",  
+	"Model", 
+	"Boja", 
+	"VPutnicko", 
+	"Broj_putnika", 
+	"VTeretno", 
+	"Nosivost",  
+	"Teretni_prostor", 
+	"Datum_Uvoza", 
+	"Id_Servisiranog_Vozila", 
+	"Mat_Br_Tehnicara", 
+	"Id_Salona"
+)
+VALUES
+  (
+        'YBCZZG49HA13690',
+        '323B90135383997',
+	3,
+	'Dizel',
+        'Nissan Navara',
+	'Crna',
+	1,
+	5,
+	1,
+	200,
+	'2m, 1.5m, 1.5m',
+	'23-AUG-2011',
+	NULL,
+	NULL,
+	NULL
+    );
+
+
+INSERT INTO SERVISIRANO_VOZILO
+("Registarski_broj", "Godina_Proizvodnje")
+VALUES (
+'NI123SA',
+2001
+);
+
+INSERT INTO SERVISIRANO_VOZILO
+(
+"Registarski_broj", 
+"Godina_Proizvodnje"  
+)
+VALUES (
+'NI124SA',
+2001
+);
+
+INSERT INTO SERVISIRANO_VOZILO
+(
+"Registarski_broj", 
+"Godina_Proizvodnje"  
+)
+VALUES (
+'BG124SA',
+2010
+);
+
+INSERT INTO SERVISIRANO_VOZILO
+(
+"Registarski_broj", 
+"Godina_Proizvodnje"  
+)
+VALUES (
+'BG125SA',
+2015
+);
+
+
+INSERT INTO SERVISIRANO_VOZILO
+(
+"Registarski_broj", 
+"Godina_Proizvodnje"  
+)
+VALUES (
+'BG125SD',
+2018
+);
+
+INSERT INTO SERVISIRANO_VOZILO
+(
+"Registarski_broj", 
+"Godina_Proizvodnje"  
+)
+VALUES (
+'NS225SD',
+2018
+);
+
+INSERT INTO SERVISIRANO_VOZILO
+(
+"Registarski_broj", 
+"Godina_Proizvodnje"  
+)
+VALUES (
+'NS325SD',
+2020
+);
+
+INSERT INTO SERVISIRANO_VOZILO
+(
+"Registarski_broj", 
+"Godina_Proizvodnje"  
+)
+VALUES (
+'UB125SD',
+2019
+);
+
+INSERT INTO SERVISIRANO_VOZILO
+(
+"Registarski_broj", 
+"Godina_Proizvodnje"  
+)
+VALUES (
+'UB125DD',
+2017
+);
+
+INSERT INTO SERVISIRANO_VOZILO
+(
+"Registarski_broj", 
+"Godina_Proizvodnje"  
+)
+VALUES (
+'AL335SD',
+2018
+);
+
+
+INSERT INTO VOZILO_KUPLJENO_NEZAVISNO
+(
+	
+"Vin",
+"Ime_Kupca",
+"Prezime_Kupca", 
+"Broj_Telefona", 
+"Model", 
+"ID_Servisiranog_Vozila" 
+)
+VALUES (
+1234567,
+'Slobodan',
+'Milisevic',
+'061-234-5678',
+'Yugo',
+NULL
+);
+
+INSERT INTO VOZILO_KUPLJENO_NEZAVISNO
+(
+	
+"Vin",
+"Ime_Kupca",
+"Prezime_Kupca", 
+"Broj_Telefona", 
+"Model", 
+"ID_Servisiranog_Vozila" 
+)
+VALUES (
+7234561,
+'Milan',
+'Dadic',
+'061-834-5672',
+'BMW X6 M',
+NULL
+);
+
+INSERT INTO VOZILO_KUPLJENO_NEZAVISNO
+(
+	
+"Vin",
+"Ime_Kupca",
+"Prezime_Kupca", 
+"Broj_Telefona", 
+"Model", 
+"ID_Servisiranog_Vozila" 
+)
+VALUES (
+6734512,
+'Dimitrije',
+'Jotic',
+'061-874-5623',
+'AUDI Q6',
+NULL
+);
+
+INSERT INTO VOZILO_KUPLJENO_NEZAVISNO
+(
+	
+"Vin",
+"Ime_Kupca",
+"Prezime_Kupca", 
+"Broj_Telefona", 
+"Model", 
+"ID_Servisiranog_Vozila" 
+)
+VALUES (
+6734513,
+'Petar',
+'Petrovic',
+'061-876-5234',
+'AUDI Q6',
+NULL
+);
+INSERT INTO VOZILO_KUPLJENO_NEZAVISNO
+(
+	
+"Vin",
+"Ime_Kupca",
+"Prezime_Kupca", 
+"Broj_Telefona", 
+"Model", 
+"ID_Servisiranog_Vozila" 
+)
+VALUES (
+8734561,
+'Petar',
+'Petrovic',
+'061-876-5534',
+'ZASTAVA',
+NULL
+);
+
+
+INSERT INTO "KUPAC"
+(
+"Broj_Telefona1", 
+"Broj_Telefona2" 
+)
+VALUES (
+'061-276-5560',
+NULL
+);
+
+INSERT INTO "KUPAC"
+(
+"Broj_Telefona1", 
+"Broj_Telefona2" 
+)
+VALUES (
+'061-276-5561',
+'063-274-1234'
+);
+
+INSERT INTO "KUPAC"
+(
+"Broj_Telefona1", 
+"Broj_Telefona2" 
+)
+VALUES (
+'061-376-5261',
+'064-275-1234'
+);
+
+INSERT INTO "KUPAC"
+(
+"Broj_Telefona1", 
+"Broj_Telefona2" 
+)
+VALUES (
+'066-366-5661',
+'064-225-1234'
+);
+
+INSERT INTO "KUPAC"
+(
+"Broj_Telefona1", 
+"Broj_Telefona2" 
+)
+VALUES (
+'069-366-5961',
+NULL
+);
+
+
+INSERT INTO FIZICKO_LICE
+("Maticni_Broj", "Ime", "Prezime")
+VALUES
+(2608984439722, 'Marko', 'Petrovic');
+
+INSERT INTO FIZICKO_LICE
+("Maticni_Broj", "Ime", "Prezime")
+VALUES
+(1811965544111, 'Nikola', 'Jankovic');
+
+INSERT INTO FIZICKO_LICE
+("Maticni_Broj", "Ime", "Prezime")
+VALUES
+(2807977908027, 'Ivan', 'Djuric');
+
+INSERT INTO FIZICKO_LICE
+("Maticni_Broj", "Ime", "Prezime")
+VALUES
+(2005968675191, 'Aleksandar', 'Gajic');
+
+INSERT INTO FIZICKO_LICE
+("Maticni_Broj", "Ime", "Prezime")
+VALUES
+(3106969294417, 'Stefan ', 'Stojanovic');
+
+INSERT INTO FIZICKO_LICE
+("Maticni_Broj", "Ime", "Prezime")
+VALUES
+(2104979294566, 'Milan ', 'Ristic');
+
+INSERT INTO FIZICKO_LICE
+("Maticni_Broj", "Ime", "Prezime")
+VALUES
+(1110966966122, 'Ana', 'Stojanovic');
+
+INSERT INTO FIZICKO_LICE
+("Maticni_Broj", "Ime", "Prezime")
+VALUES
+(1701983422167, 'Milica', 'Jovanovic');
+
+INSERT INTO FIZICKO_LICE
+("Maticni_Broj", "Ime", "Prezime")
+VALUES
+(2612973827245, 'Jelena', 'Nikolic');
+
+INSERT INTO FIZICKO_LICE
+("Maticni_Broj", "Ime", "Prezime")
+VALUES
+(2010982920214, 'Sanja', 'Petrovic');
+
+
+INSERT INTO PRAVNO_LICE
+("PIB", "Ime", "Prezime", "IDK")
+VALUES
+(4064595679, 'Ivana', 'Nikolic', 3003);
+
+INSERT INTO PRAVNO_LICE
+("PIB", "Ime", "Prezime", "IDK")
+VALUES
+(9558313102, 'Marija', 'Jankovic', 3004);
+
+INSERT INTO PRAVNO_LICE
+("PIB", "Ime", "Prezime")
+VALUES
+(6893355751, 'Ivona', 'Kostic');
+
+INSERT INTO PRAVNO_LICE
+("PIB", "Ime", "Prezime")
+VALUES
+(3396948102, 'Ivana', 'Ristic');
+
+INSERT INTO PRAVNO_LICE
+("PIB", "Ime", "Prezime")
+VALUES
+(1559509665, 'Jovana', 'Gajic');
+
+INSERT INTO PRAVNO_LICE("PIB", "Ime", "Prezime")
+VALUES
+(2214668410, 'Petar', 'Miljkovic');
+
+INSERT INTO PRAVNO_LICE
+("PIB", "Ime", "Prezime")
+VALUES
+(6925326288, 'Dragan', 'Kostic');
+
+INSERT INTO SALON
+("Lokacija", "Ime", "Maticni_Broj_Sefa", "Id_Predstavnistva")
+VALUES
+('Cvijiceva 2', 'Salon automobila', 2312984715494, 1);
+
+INSERT INTO SALON
+("Lokacija", "Ime", "Maticni_Broj_Sefa", "Id_Predstavnistva")
+VALUES
+('Milankoviceva 4', 'Auto salon', 2312984715494, 1);
+
+INSERT INTO SALON
+("Lokacija", "Ime", "Maticni_Broj_Sefa", "Id_Predstavnistva")
+VALUES
+('Djokoviceva 15', 'Automobili', 1109978234313, 3);
+
+INSERT INTO SALON
+("Lokacija", "Ime", "Maticni_Broj_Sefa", "Id_Predstavnistva")
+VALUES
+('Nebojsina 85', 'Salon vozila', 1109978234313, 3);
+
+INSERT INTO SALON
+("Lokacija", "Ime", "Maticni_Broj_Sefa", "Id_Predstavnistva")
+VALUES
+('Predragova 15', 'Automoto salon', 1109978234313, 2);
+
+INSERT INTO SALON
+("Lokacija", "Ime", "Maticni_Broj_Sefa", "Id_Predstavnistva")
+VALUES
+('Milutinova 14', 'Salon vozila', 1109978234313, 4);
+
+INSERT INTO SALON
+("Lokacija", "Ime", "Maticni_Broj_Sefa", "Id_Predstavnistva")
+VALUES
+('Jovanova 46', 'Auto salon vozila', 1109978234313, 4);
+
+
+INSERT INTO SERVISIRANJE
+("PFR_Br_Racuna", "Id_Servisa", "Datum_Zavrsetka", "Maticni_Broj_Primaoca", "Datum_Prijema", "Opis_Problema", "Id_Servisiranog_Vozila")
+VALUES
+('0 927 443 225 5', 0, '2023-04-18', 1501998177837, '2023-03-25', 'Pocepan karter', 1000);
+
+INSERT INTO SERVISIRANJE
+("PFR_Br_Racuna", "Id_Servisa", "Datum_Zavrsetka", "Maticni_Broj_Primaoca", "Datum_Prijema", "Opis_Problema", "Id_Servisiranog_Vozila")
+VALUES
+('1 347 218 971 0', 2, '2023-04-19', NULL, '2023-04-05', 'Zamena guma', 1001);
+
+INSERT INTO SERVISIRANJE
+("PFR_Br_Racuna", "Id_Servisa", "Datum_Zavrsetka", "Maticni_Broj_Primaoca", "Datum_Prijema", "Opis_Problema", "Id_Servisiranog_Vozila")
+VALUES
+('2 509 564 853 6', 0, '2023-04-24', 1501998177837, '2023-03-08', 'Ne radi alternator', 1002);
+
+INSERT INTO SERVISIRANJE
+("PFR_Br_Racuna", "Id_Servisa", "Datum_Zavrsetka", "Maticni_Broj_Primaoca", "Datum_Prijema", "Opis_Problema", "Id_Servisiranog_Vozila")
+VALUES
+('0 719 862 736 2', 4, '2023-04-25', 1112996293488, '2023-04-18', 'Ulubljena prednja vrata', 1003);
+
+INSERT INTO SERVISIRANJE
+("PFR_Br_Racuna", "Id_Servisa", "Datum_Zavrsetka", "Maticni_Broj_Primaoca", "Datum_Prijema", "Opis_Problema", "Id_Servisiranog_Vozila")
+VALUES
+('1 020 110 580 4', 6, '2023-04-27', 0803994658751, '2023-04-20', 'Farbanje krova', 1004);
+
+INSERT INTO SERVISIRANJE
+("PFR_Br_Racuna", "Id_Servisa", "Datum_Zavrsetka", "Maticni_Broj_Primaoca", "Datum_Prijema", "Opis_Problema", "Id_Servisiranog_Vozila")
+VALUES
+('2 102 371 409 8', 0, '2023-05-01', 1501998177837, '2023-04-23', 'Ne radi karburator', 1005);
+
+INSERT INTO SERVISIRANJE
+("PFR_Br_Racuna", "Id_Servisa", "Datum_Zavrsetka", "Maticni_Broj_Primaoca", "Datum_Prijema", "Opis_Problema", "Id_Servisiranog_Vozila")
+VALUES
+('0 835 446 980 6',8 , '2023-05-04', NULL, '2023-04-11', 'Farbanje haube', 1006);
+
+INSERT INTO SERVISIRANJE
+("PFR_Br_Racuna", "Id_Servisa", "Datum_Zavrsetka", "Maticni_Broj_Primaoca", "Datum_Prijema", "Opis_Problema", "Id_Servisiranog_Vozila")
+VALUES
+('1 225 673 728 1', 2, '2023-05-07', NULL, '2023-04-06', 'Izusena zadnja leva guma', 1007);
+
+INSERT INTO SERVISIRANJE
+("PFR_Br_Racuna", "Id_Servisa", "Datum_Zavrsetka", "Maticni_Broj_Primaoca", "Datum_Prijema", "Opis_Problema", "Id_Servisiranog_Vozila")
+VALUES
+('2 404 012 362 9', 6, '2023-05-12', 0803994658751, '2023-05-02', 'Kompletno poliranje', 1008);
+
+INSERT INTO SERVISIRANJE
+("PFR_Br_Racuna", "Id_Servisa", "Datum_Zavrsetka", "Maticni_Broj_Primaoca", "Datum_Prijema", "Opis_Problema", "Id_Servisiranog_Vozila")
+VALUES
+('3 512 416 019 7', 10, '2023-05-13', NULL, '2023-05-10', 'Zamena ulja', 1009);
+
+
+INSERT INTO PRODAJA
+("Datum_Kupovine", "Id_Vozila", "Cena", "IDK", "Mat_Br_Prodavca", "IdS")
+VALUES
+('2013-07-05', 100, 4500, 3000, 1501998177837, 1);
+
+INSERT INTO PRODAJA
+("Datum_Kupovine", "Id_Vozila", "Cena", "IDK", "Mat_Br_Prodavca", "IdS")
+VALUES
+('2016-08-03', 101, 5000, 3001, 803994658751, 3);
+
+INSERT INTO PRODAJA
+("Datum_Kupovine", "Id_Vozila", "Cena", "IDK", "Mat_Br_Prodavca", "IdS")
+VALUES
+('2018-12-11', 103, 6000, 3002, 1501998177837, 1);
+
+INSERT INTO PRODAJA
+("Datum_Kupovine", "Id_Vozila", "Cena", "IDK", "Mat_Br_Prodavca", "IdS")
+VALUES
+('2014-05-16', 106, 8500, 3003, 803994658751, 3);
+
+INSERT INTO PRODAJA
+("Datum_Kupovine", "Id_Vozila", "Cena", "IDK", "Mat_Br_Prodavca", "IdS")
+VALUES
+('2020-02-08', 108, 4500, 3004, 1501998177837, 1);
