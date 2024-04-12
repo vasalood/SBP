@@ -1,0 +1,1 @@
+WinForms aplikacija za projekat Motorna vozila implementirana koriscenjem NHibernate tehnologije.
